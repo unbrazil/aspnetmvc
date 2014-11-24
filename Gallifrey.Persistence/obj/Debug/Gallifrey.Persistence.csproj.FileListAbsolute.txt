@@ -1,0 +1,12 @@
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\Gallifrey.Persistence.dll.config
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\Gallifrey.Persistence.dll
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\Gallifrey.Persistence.pdb
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\EntityFramework.dll
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\EntityFramework.SqlServer.dll
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\EntityFramework.xml
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\EntityFramework.SqlServer.xml
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\obj\Debug\Gallifrey.Persistence.dll
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\obj\Debug\Gallifrey.Persistence.pdb
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\obj\Debug\Gallifrey.Persistence.csprojResolveAssemblyReference.cache
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\Omu.ValueInjecter.dll
+c:\users\pedro.matos\documents\visual studio 2013\Projects\Gallifrey.RestApiController\Gallifrey.Persistence\bin\Omu.ValueInjecter.xml
